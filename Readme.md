@@ -6,10 +6,9 @@ The reason why i created this, is i wanted to have an easy way to shake my paint
 
 I stumpled over the vortex mixer from NDubiel on thingiverse: https://www.thingiverse.com/thing:534894 which was quite good but i wanted to improve some stuff.
 
+Look the video how it works
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=J79AnS1BsYA
-" target="_blank"><img src="http://img.youtube.com/vi/J79AnS1BsYA/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![Vortex Mixer in Action](http://img.youtube.com/vi/J79AnS1BsYA/0.jpg)](http://www.youtube.com/watch?v=J79AnS1BsYA "Vortex Mixer in Action")
 
 ## Software used to create this project
 
@@ -63,7 +62,7 @@ Print the following parts. Each one time.
 I used 20% infill and PLA.
 
 * [stls/case_bottom.stl](stls/case_bottom.stl)
-* [stls/motor_clamnp.stl](stls/motor_clamnp.stl)
+* [stls/motor_clamp.stl](stls/motor_clamp.stl)
 * [stls/wedge.stl](stls/wedge.stl)
 * [stls/lid.stl](stls/lid.stl)
 * [stls/coupler.stl](stls/coupler.stl)
@@ -77,4 +76,12 @@ I used 20% infill and PLA.
 * [Vallejo](stls/tops/vallejo_top.stl)
 * [Vallejo big bottle](stls/tops/vallejo_big_top.stl)
 * [Games Workshop](stls/tops/games_workshop_top.stl)
-* [Games Workshop Old](stls/tops/games_workshop_old_top.stl)
+* [Games Workshop old](stls/tops/games_workshop_old_top.stl)
+
+## Motorcontroller PCB
+
+The schemantics is like this
+
+![PCB schemantic](assets/schemantic.png)
+
+You can either use the pcb which i generated with KICAD. The project files are located in the folder: **[pcb](pcb)**
