@@ -2,6 +2,8 @@
 
 This is my OpenSource vortex paint mixer.
 
+You can also find it on thingiverse: https://www.thingiverse.com/thing:3605287
+
 The reason why i created this, is i wanted to have an easy way to shake my paints. I used an adapter on a jig saw, which worked pretty well but was verry noisy to.
 
 I stumpled over the vortex mixer from NDubiel on thingiverse: https://www.thingiverse.com/thing:534894 which was quite good but i wanted to improve some stuff.
@@ -121,15 +123,15 @@ Assemble the pcb. Don't forget the heatsink :)
 
 ![pcb.jpg](assets/build_images/pcb.jpg)
 
-Wire the wires to the pcb from the powerplug, micro switcht and the motor.
+Wire the wires to the pcb from the powerplug, micro switch and the motor.
 
 ![motor_wired.jpg](assets/build_images/motor_wired.jpg)
 
-Fix the poti with the nut.
+Fix the poti with the nut onto the case.
 
 ![poti_fixed.jpg](assets/build_images/poti_fixed.jpg)
 
-Add the knob to the poti
+Add the knob to the poti.
 
 ![poti_knob.jpg](assets/build_images/poti_knob.jpg)
 
