@@ -88,3 +88,5 @@ You can either use the pcb which i generated with KICAD. The project files are l
 
 If you don't have the possibility to create the pcb you can also freewire the electronics.
 
+
+
