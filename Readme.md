@@ -85,3 +85,6 @@ The schemantics is like this
 ![PCB schemantic](assets/schemantic.png)
 
 You can either use the pcb which i generated with KICAD. The project files are located in the folder: **[pcb](pcb)**
+
+If you don't have the possibility to create the pcb you can also freewire the electronics.
+
