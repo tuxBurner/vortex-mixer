@@ -10,12 +10,22 @@ Look the video how it works
 
 [![Vortex Mixer in Action](http://img.youtube.com/vi/J79AnS1BsYA/0.jpg)](http://www.youtube.com/watch?v=J79AnS1BsYA "Vortex Mixer in Action")
 
+## Contribute
+
+When you found a bug or have enhancement feel free to create a pull request or an issue :)
+
 ## Software used to create this project
 
-* For 3d modelling: Openscad
-* For the pcb: Kicad
+* For 3d modelling: [http://openscad.org](http://openscad.org)
+* For the pcb: [http://http://kicad-pcb.org/](http://kicad-pcb.org/)
 
-I thank all the people which make it possible to create a project like this with there software.
+I thank all the people which make it possible to create a project like this with there free software.
+
+## Scad files
+
+The case / lid and motorclamp scad file is the [scadfiles/case.scad](scadfiles/case.scad)
+
+The top scad file is the [scadfiles/top.scad](scadfiles/top.scad)
 
 ## Howto build the mixer
 
@@ -35,7 +45,7 @@ I thank all the people which make it possible to create a project like this with
   * 1 x LM317
   * 1 x Heatsink for the LM317 **required** 
   * 1 x 1k Resistor
-  * 2 x Screw Terminal (Optional)
+  * 2 x Screw Terminal (Optional) 
 
 ### Other electronic Components
 
@@ -48,8 +58,8 @@ I thank all the people which make it possible to create a project like this with
 ### General Components
 
   * 4 x Rubber Foot 
-  * 1 x 3M * 30 Bolt + 3M Nut for the motor clamp
-  * 5 x 3M tapping screws
+  * 1 x M3 * 30 Bolt + 3M Nut for the motor clamp
+  * 5 x M3 tapping screws
   * Bearing for the cuppler
   * For the top 4M x 20 Bolt and 2 4M x Nuts
 
@@ -89,4 +99,84 @@ You can either use the pcb which i generated with KICAD. The project files are l
 If you don't have the possibility to create the pcb you can also freewire the electronics.
 
 ## Build Instructions
+
+### Mixer
+
+Hot glue the micro switch into the case and wire the switch to the power plug.
+
+![case_bottom_1.jpg](assets/build_images/case_bottom_1.jpg)
+
+![case_bottom_2.jpg](assets/build_images/case_bottom_2.jpg)
+
+![case_bottom_3.jpg](assets/build_images/case_bottom_3.jpg)
+
+Put the motorclamp and the motor together
+
+![motor.jpg](assets/build_images/motor.jpg)
+![motorclamp_1.jpg](assets/build_images/motorclamp_1.jpg)
+![motorclamp_2.jpg](assets/build_images/motorclamp_2.jpg)
+![motorclamp_3.jpg](assets/build_images/motorclamp_3.jpg)
+
+Assemble the pcb. Don't forget the heatsink :)
+
+![pcb.jpg](assets/build_images/pcb.jpg)
+
+Wire the wires to the pcb from the powerplug, micro switcht and the motor.
+
+![motor_wired.jpg](assets/build_images/motor_wired.jpg)
+
+Fix the poti with the nut.
+
+![poti_fixed.jpg](assets/build_images/poti_fixed.jpg)
+
+Add the knob to the poti
+
+![poti_knob.jpg](assets/build_images/poti_knob.jpg)
+
+Add the wedge to the motor clamp. Mine broke a little bit when i tokked of the printer. But it is still working. 
+
+¯\\_(ツ)_/¯
+
+![wedge.jpg](assets/build_images/wedge.jpg)
+
+
+![motorclamp_and_wedge.jpg](assets/build_images/motorclamp_and_wedge.jpg)
+
+Screw the motorclamp into the case.
+
+![motor_screwed_into_case.jpg](assets/build_images/motor_screwed_into_case.jpg)
+
+Screw the lid onto the case.
+
+![lid_closed.jpg](assets/build_images/lid_closed.jpg)
+
+Superglue the bearing into the coupler.
+
+![coupler.jpg](assets/build_images/coupler.jpg)
+
+Put the coupler onto the motor.
+
+![coupler_attached.jpg](assets/build_images/coupler_attached.jpg)
+
+## Paint bottle top
+
+Here is a picture of the diffrent tops and the corresponding paint bottles.
+
+![tops_and_bottles.jpg](assets/build_images/tops_and_bottles.jpg)
+
+Put a M4 nut into the bottom of the top.
+
+![top_1.jpg](assets/build_images/top_1.jpg)
+
+Screw a M4 bolt from the other side into the top and put a second M4 nut at the bottom. 
+
+![top_2.jpg](assets/build_images/top_2.jpg)
+
+
+**DONE ! :)**
+
+![complete.jpg](assets/build_images/complete.jpg)
+
+Just plugin the power and push down the color top into the coupler.
+
 
