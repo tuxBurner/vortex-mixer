@@ -19,7 +19,7 @@ When you found a bug or have enhancement feel free to create a pull request or a
 ## Software used to create this project
 
 * For 3d modelling: [http://openscad.org](http://openscad.org)
-* For the pcb: [http://http://kicad-pcb.org/](http://kicad-pcb.org/)
+* For the pcb: [http://http://kicad.org/](http://kicad.org/)
 
 I thank all the people which make it possible to create a project like this with there free software.
 
